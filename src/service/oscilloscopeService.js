@@ -1,7 +1,7 @@
 import {Line} from "../model/line.js";
 
 const POSITIVE_HEIGHT = 30;
-const CHART_WIDTH = 4;
+const CHART_WIDTH = 3;
 
 let sweepTime = 6000;
 let isOscilloscopeOn = false;
